@@ -29,7 +29,7 @@
 <style lang="scss">
   section {
     display: grid;
-    grid-template-columns: auto 15rem;
+    grid-template-columns: auto 24rem;
     height: max-content;
   }
 

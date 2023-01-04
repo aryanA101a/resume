@@ -15,7 +15,7 @@
 <p>
   <a
     in:fade={{ delay: 200, duration: 300 }}
-    href="./RavindaranNavinn_Resume.pdf"
+    href="./AryanArora_Resume.pdf"
     target="__blank">Download PDF <i class="fas fa-download" /></a
   >
 </p>

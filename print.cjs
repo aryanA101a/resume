@@ -31,30 +31,30 @@ const OUT = process.argv[2] === '--dev' ? 'public' : 'dist';
   await ep.open();
 
   await ep.writeMetadata(
-    `${OUT}/RavindaranNavinn_Resume.pdf`,
+    `${OUT}/AryanArora_Resume.pdf`,
     {
       all: '', // remove existing tags
-      Title: 'Navinn Ravindaran - Resume',
+      Title: 'Aryan Arora - Resume',
       Subject: 'Resume',
-      Author: 'Navinn Ravindaran',
+      Author: 'Aryan Arora',
       Creator: 'Chromium (Puppeteer)',
-      Producer: 'github.com/navn-r/resume',
+      Producer: 'github.com/aryanA101a/resume',
       'Keywords+': [
-        'Navinn',
-        'Ravindaran',
+        'Aryan',
+        'Arora',
         'Resume',
-        'Canada',
+        'India',
         'Computer Science',
         'SWE',
         'Software Engineering',
         'Developer',
         'Student',
         'Coder',
-        'Full Stack',
+        'App',
         'Frontend',
         'Backend',
-        'Data Structures',
-        'Algorithms',
+        'Flutter',
+        'Operatin System',
       ],
     },
     ['overwrite_original']

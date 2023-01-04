@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="banner.svg" width="800" height="200" />
-  <h6 align="center">
-  
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![Node.js CI](https://github.com/navn-r/resume/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/navn-r/resume/actions/workflows/main.yml) [![wakatime](https://wakatime.com/badge/github/navn-r/resume.svg)](https://wakatime.com/badge/github/navn-r/resume) [![CodeFactor](https://www.codefactor.io/repository/github/navn-r/resume/badge)](https://www.codefactor.io/repository/github/navn-r/resume)
-  
-  
-  </h6>
-</div>
-
-<img align="right" src="public/qr.png" width="250" />
+### Forked from [navn-r](https://github.com/navn-r)
 
 ### Schema
 
@@ -17,7 +7,7 @@ This resume uses the schema from the [JSON Resume](https://jsonresume.org/schema
 ### Built with:
 
 - [Svelte](https://svelte.dev) + TypeScript + SCSS
-- Puppeteer for auto-magically generating a pdf on build (view [here](https://github.com/navn-r/resume/blob/gh-pages/RavindaranNavinn_Resume.pdf))
+- Puppeteer for auto-magically generating a pdf on build (view [here](https://github.com/aryanA101a/resume/blob/gh-pages/AryanArora_Resume.pdf))
 - GitHub Actions on push to Github Pages
 - :heart:
 
