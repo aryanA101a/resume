@@ -28,7 +28,7 @@ jobs:
             ${{ runner.os }}-
 
       - name: Install dependencies
-        run: pnpm install --force && sudo apt install exiftool
+        run: pnpm install && sudo apt install exiftool
 
       - name: Build
         run: npm run build
