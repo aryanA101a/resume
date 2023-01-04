@@ -20,7 +20,7 @@ const OUT = process.argv[2] === '--dev' ? 'public' : 'dist';
   });
 
   await page.pdf({
-    path: `${OUT}/RavindaranNavinn_Resume.pdf`,
+    path: `${OUT}/AryanArora_Resume.pdf`,
     printBackground: true,
     displayHeaderFooter: false,
     scale: 1,
