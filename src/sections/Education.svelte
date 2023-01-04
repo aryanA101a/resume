@@ -17,11 +17,11 @@
         <span>{formatDate(school.endDate)} (Expected)</span>
       </p>
     </div>
-    {#if school.score!=""}
-    <p>
-      <strong>Cumulative GPA:</strong>
-      {school.score} — {school.awards.join(', ')}
-    </p>
+    {#if school.score != ''}
+      <p>
+        <strong>Cumulative GPA:</strong>
+        {school.score} — {school.awards.join(', ')}
+      </p>
     {/if}
     <!-- <p>
       <strong>Teaching Assistant:</strong>
