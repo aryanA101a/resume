@@ -122,6 +122,18 @@
       "type": "application",
       "features": [],
       "technology": ["C"]
+    },
+    {
+      "name": "Speeed",
+      "description": "A chrome extension to go beyond 2x Video speeed on YouTube.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "repo": "https://github.com/aryanA101a/speeed",
+      "url": "",
+      "type": "chrome-extension",
+      "features": [],
+      "technology": ["Javascript", "HTML", "CSS"]
     }
   ]
 }
