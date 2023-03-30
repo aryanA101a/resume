@@ -79,20 +79,19 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "C",
-        "C++",
-        "Dart",
-        "Go",
-        "Python",
-        "Java",
-        "JavaScript",
-        "Assembly"
-      ]
+      "keywords": ["C", "C++", "Dart", "Go", "Python", "JavaScript", "Assembly"]
     },
     {
-      "name": "Frameworks",
-      "keywords": ["Flutter", "Express"]
+      "name": "Technologies",
+      "keywords": [
+        "Flutter",
+        "Express",
+        "BubbleTea",
+        "GraphQL",
+        "FastAPI",
+        "SQL",
+        "Firebase"
+      ]
     },
     {
       "name": "Concepts",
