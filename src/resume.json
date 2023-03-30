@@ -96,7 +96,7 @@
     },
     {
       "name": "Concepts",
-      "keywords": ["OS"]
+      "keywords": ["OS", "Computer Architecture"]
     }
   ],
   "projects": [
@@ -124,16 +124,16 @@
       "technology": ["C"]
     },
     {
-      "name": "Speeed",
-      "description": "A chrome extension to go beyond 2x Video speeed on YouTube.",
+      "name": "SortingVisualizer",
+      "description": "Sorting Visualizations on Scatter Plot.",
       "highlights": [],
       "startDate": "",
       "endDate": "",
-      "repo": "https://github.com/aryanA101a/speeed",
+      "repo": "https://github.com/aryanA101a/SortingVisualizer",
       "url": "",
-      "type": "chrome-extension",
+      "type": "application",
       "features": [],
-      "technology": ["Javascript", "HTML", "CSS"]
+      "technology": ["Flutter", "Dart"]
     }
   ]
 }
