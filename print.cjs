@@ -54,7 +54,7 @@ const OUT = process.argv[2] === '--dev' ? 'public' : 'dist';
         'Frontend',
         'Backend',
         'Flutter',
-        'Operatin System',
+        'Operating System',
       ],
     },
     ['overwrite_original']

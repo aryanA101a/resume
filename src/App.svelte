@@ -42,11 +42,6 @@
   <Projects projects={resume.projects} />
 </main>
 
-<p in:fade={{ delay: 300, duration: 300 }}>
-  Made with <i class="fas fa-heart" />
-  from <i class="fab fa-canadian-maple-leaf" />
-</p>
-
 <style lang="scss">
   /* Global Styles */
 

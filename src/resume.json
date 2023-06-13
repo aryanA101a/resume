@@ -100,6 +100,17 @@
   ],
   "projects": [
     {
+      "name": "Duckmart Segmentation Query Generator",
+      "description": "A dynamic sql query generator based on json input.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "repo": "https://github.com/aryanA101a/sql-segmentation-query-generator",
+      "url": "",
+      "type": "application",
+      "technology": ["Python", "FastApi", "DuckDB", "JSON-Schema"]
+    },
+    {
       "name": "Villi",
       "description": "A Bit-Torrent client written in GO.",
       "highlights": [],
