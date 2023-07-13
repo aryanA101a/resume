@@ -27,7 +27,7 @@
     {
       "name": "Degpeg",
       "location": "Remote, Bangalore",
-      "position": "Software Engineer Intern( Flutter Android Development ) @ Degpeg",
+      "position": "Software Engineer Intern( Flutter Android Development )",
       "url": "https://www.degpeg.com/",
       "startDate": "2021-06-29",
       "endDate": "2021-08-29",
@@ -79,13 +79,12 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["C", "C++", "Dart", "Go", "Python", "JavaScript", "Assembly"]
+      "keywords": ["C", "C++", "Dart", "Go", "Python", "Assembly"]
     },
     {
       "name": "Technologies",
       "keywords": [
         "Flutter",
-        "Express",
         "BubbleTea",
         "GraphQL",
         "FastAPI",
@@ -100,7 +99,7 @@
   ],
   "projects": [
     {
-      "name": "Duckmart Segmentation Query Generator",
+      "name": "Segmentation Query Generator",
       "description": "A dynamic sql query generator based on json input.",
       "highlights": [],
       "startDate": "",
@@ -132,6 +131,18 @@
       "type": "application",
       "features": [],
       "technology": ["C"]
+    },
+    {
+      "name": "Batua",
+      "description": "An ethereum wallet app with full functionality and additional support for sepolia testnet.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "repo": "https://github.com/aryanA101a/batua",
+      "url": "",
+      "type": "application",
+      "features": [],
+      "technology": ["Flutter", "Dart", "Websockets", "Rest Api", "Hive"]
     },
     {
       "name": "SortingVisualizer",
